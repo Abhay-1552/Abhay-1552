@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhay-1552
 - 👀 I’m interested in pyhton coding
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on pyhton projects
 - 📫 How to reach me through email(gamerspropaganda143@gmail.com)
 
