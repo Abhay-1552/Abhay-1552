@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Abhay Patel</h1>
+<h3 align="center">I'm a dedicated data enthusiast with a strong command of core Python and diverse libraries, ranging from web scraping and AI/ML to data science and frontend design. My projects showcase my prowess in crafting Python-driven solutions, harnessing AI for insights, and creating interactive visualizations. As I navigate my journey towards becoming a skilled Database Administrator, I'm committed to continuous learning, staying at the forefront of tech trends, and fostering innovative collaborations. Let's connect on [LinkedIn](https://www.linkedin.com/in/abhaypatel1552) to share ideas, embark on exciting projects, and contribute to the ever-evolving world of technology and data! 🚀</h3>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning<br><br>🌱 I’m currently learning Database Management, ML and DL<br><br>👯 I’m looking to collaborate on Python Projects<br><br>👨‍💻 All of my projects are available at https://abhay-1552.github.io/My-Portfolio/<br><br>💬 Ask me about Python, Frontend, MYSql<br><br>📫 How to reach me patelabhay1552@gmail.com
 
