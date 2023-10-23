@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br><br>🌱 I’m currently learning Database Management, ML and DL<br><br>👯 I’m looking to collaborate on Python Projects<br><br>👨‍💻 All of my projects are available at https://abhay-1552.github.io/My-Portfolio/<br><br>💬 Ask me about Python, Frontend, MYSql<br><br>📫 How to reach me patelabhay1552@gmail.com
+🔭 I’m currently working on Machine Learning<br><br>🌱 I’m currently learning Database Management, ML and DL<br><br>👯 I’m looking to collaborate on Python Projects<br><br>👨‍💻 All of my projects are available at https://abhay-1552.github.io/Profile/<br><br>💬 Ask me about Python, Frontend, MYSql<br><br>📫 How to reach me patelabhay1552@gmail.com
 
 
 ## 🌐 Socials:
